@@ -1,0 +1,17 @@
+#title{
+    background-color: goldenrod;
+    width: 35%;
+}
+.blog-title{
+    font-size: 50px;
+    font-weight: 600;
+}
+.btn{
+    background-color: goldenrod;
+    border: none;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    color: white;
+}
